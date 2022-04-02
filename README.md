@@ -7,7 +7,7 @@ BOT para realizar pagos, generacion de QRs y otros para los becados en plataform
 USO e Integracion *
 
 - Tener o Crear cuenta en Telegram y luego crear un Webhook y obtener token -> documentation: https://core.telegram.org/bots/api.
-- Tener o Crear cuenta AWS -> link: https://aws.amazon.com/:
+- Tener o Crear cuenta AWS -> link: https://aws.amazon.com:
   - Crear Lambda en Python 3.7+ e integrar el codigo.
   - Crear Documentdb para guarda datos de los becados, tales como PIN, Wallet de Pago, usuario telegrarm, etc.
 
