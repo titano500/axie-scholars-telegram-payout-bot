@@ -129,3 +129,5 @@ dmypy.json
 .pyre/
 /payments.json
 /secrets.json
+
+.idea/
