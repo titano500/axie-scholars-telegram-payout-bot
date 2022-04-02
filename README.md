@@ -8,8 +8,8 @@ USO e Integracion *
 
 - Tener o Crear cuenta en Telegram y luego crear un Webhook y obtener token -> documentation: https://core.telegram.org/bots/api.
 - Tener o Crear cuenta AWS -> link: https://aws.amazon.com:
-  - Crear Lambda en Python 3.7+ e integrar el codigo.
-  - Crear Documentdb para guarda datos de los becados, tales como PIN, Wallet de Pago, usuario telegrarm, etc.
+  - Crear Lambda en Python 3.7+ e integrar el codigo (link lambda: https://aws.amazon.com/lambda) .
+  - Crear Documentdb para guarda datos de los becados, tales como PIN, Wallet de Pago, usuario telegrarm, etc (link documentdb: https://aws.amazon.com/documentdb).
 
 
 - Crear file payments.json y luego llenar con los datos de los becados y el manager,  tomando como referencia el file payments-sample.json.
