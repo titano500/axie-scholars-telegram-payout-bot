@@ -1,6 +1,7 @@
 # axie-scholars-telegram-payout-bot
-BOT para realizar pagos, generacion de QRs y otros para los becados en plataforma Telegram.
-BOT to make payments, generate QRs and others for scholarship recipients on the Telegram platform.
+
+- BOT para realizar pagos, generacion de QRs y otros para los becados en plataforma Telegram.
+- BOT to make payments, generate QRs and others for scholarship recipients on the Telegram platform.
 
 - Este BOT debe ser integrado junto a Amazon Web Services AWS (Lambda y DocumentDB) + Webhook Token en Telegram.
 - This BOT must be integrated with Amazon Web Services AWS (Lambda and DocumentDB) + Webhook Token in Telegram.
