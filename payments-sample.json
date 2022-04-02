@@ -1,0 +1,27 @@
+{
+    "Manager": "ronin:wallet",
+    "Scholars": [
+        {
+            "Name": "Scholar One Name",
+            "TelegramID": "username",
+            "AccountAddress": "ronin:wallet",
+            "ScholarPayoutAddress": "ronin:wallet",
+            "ScholarPayout": 50,
+            "TrainerPayoutAddress": "",
+            "TrainerPayout": 0,
+            "ManagerPayout": 50,
+            "isRonin": true
+        },
+        {
+            "Name": "Scholar One Name",
+            "TelegramID": "username",
+            "AccountAddress": "ronin:wallet",
+            "ScholarPayoutAddress": "ronin:wallet",
+            "ScholarPayout": 50,
+            "TrainerPayoutAddress": "",
+            "TrainerPayout": 0,
+            "ManagerPayout": 50,
+            "isRonin": true
+        }
+    ]
+}
