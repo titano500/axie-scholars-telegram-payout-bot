@@ -14,3 +14,15 @@ BOT para realizar pagos, generacion de QRs y otros para los becados en plataform
 - Crear file payments.json y luego llenar con los datos de los becados y el manager,  tomando como referencia el file payments-sample.json
 - Crear file secrets.json y luego llenar wallet de la cuenta becada + su privateKey, tomando como referencia el file secrets-sample.json 
 - Crear file util-messages.py, tomando como referencia el file util-messages-sample.py
+
+
+
+---
+
+Se recomienda usar https://tracker.axie.management/ para visualizar en tiempo real el comportamiento de tus becados !!
+
+Have a Good Management !!!
+
+Sincerily,
+
+@Titano
