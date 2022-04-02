@@ -3,7 +3,8 @@ BOT para realizar pagos, generacion de QRs y otros para los becados en plataform
 
 - Este BOT debe ser integrado junto a Amazon Web Services AWS (Lambda y DocumentDB) + Webhook Token en Telegram.
 
-* USO e Integracion *
+---
+USO e Integracion *
 
 - Tener cuenta en Telegram y crear un Webhook.
 - Crear cuenta AWS:
